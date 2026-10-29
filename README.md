@@ -1,4 +1,4 @@
-# Classroom — School user directory
+# gophygital-task-school-user-data-app
 
 A responsive React demo with email/password sign-in, an administrator student directory, and an individual student profile.
 
