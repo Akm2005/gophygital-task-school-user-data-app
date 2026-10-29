@@ -1,0 +1,62 @@
+[
+  {
+    "userName": "Morgan Lee",
+    "userType": "admin",
+    "passwordHash": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
+    "email": "admin@example.com",
+    "language": "English",
+    "address": "18 Oak Street, Brookfield",
+    "standard": "N/A",
+    "subjects": []
+  },
+  {
+    "userName": "Alice Johnson",
+    "userType": "student",
+    "passwordHash": "cb2433073edb25ca77f0445dcdbd7e7c568196eef1cd54da7228ddd227240e2e",
+    "email": "alice@example.com",
+    "language": "English",
+    "address": "24 Maple Avenue, Brookfield",
+    "standard": "6th",
+    "subjects": ["Maths", "Science", "History"]
+  },
+  {
+    "userName": "Lukas Weber",
+    "userType": "student",
+    "passwordHash": "2ff541376ed869740877c730ee7ef9565656e41d7a511fbc0a0112542315db40",
+    "email": "lukas@example.com",
+    "language": "German",
+    "address": "7 Lindenweg, Brookfield",
+    "standard": "7th",
+    "subjects": ["Science", "Geography", "English"]
+  },
+  {
+    "userName": "Sofia Patel",
+    "userType": "student",
+    "passwordHash": "cb2433073edb25ca77f0445dcdbd7e7c568196eef1cd54da7228ddd227240e2e",
+    "email": "sofia@example.com",
+    "language": "English",
+    "address": "91 Cedar Lane, Brookfield",
+    "standard": "8th",
+    "subjects": ["Maths", "Art", "History"]
+  },
+  {
+    "userName": "Noah Williams",
+    "userType": "student",
+    "passwordHash": "2ff541376ed869740877c730ee7ef9565656e41d7a511fbc0a0112542315db40",
+    "email": "noah@example.com",
+    "language": "French",
+    "address": "35 Pine Road, Brookfield",
+    "standard": "9th",
+    "subjects": ["Maths", "Science", "Computer Science"]
+  },
+  {
+    "userName": "Emma Chen",
+    "userType": "student",
+    "passwordHash": "cb2433073edb25ca77f0445dcdbd7e7c568196eef1cd54da7228ddd227240e2e",
+    "email": "emma@example.com",
+    "language": "Mandarin",
+    "address": "12 Willow Court, Brookfield",
+    "standard": "10th",
+    "subjects": ["Biology", "History", "English"]
+  }
+]
